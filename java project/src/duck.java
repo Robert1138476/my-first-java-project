@@ -1,0 +1,1 @@
+public class duck{String Name;int pizzas;duck(String name,int pizzacount){this.Name=name;this.pizzas=pizzacount;}}
